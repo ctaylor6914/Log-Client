@@ -1,15 +1,10 @@
 /*	FILE			: Client.java
-    PROJECT			: NAD_A03
     PROGRAMMER		: Mita Das & Colby Taylor
     FIRST VERSION	: 2022-02-15
     DESCRIPTION		: This is the client program which sends data to server
                     : the data can be chosen or created by the user
                     : this client is used as a test platform for the
                     : corresponding server
-
-    AUTHOR          : StackOverflow (Ganesh Jagdale)
-    SOURCE          : https://stackoverflow.com/questions/20913440/connecting-python-socket-and-java-socket
-
  */
 
 import java.io.DataInputStream;
